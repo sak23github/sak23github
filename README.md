@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **pyhton,django,sql,mongodb**
 
-- 📫 How to reach me **sakshitaywade01@gmail.com**
+- 📫 How to reach me **sakshikk04@gmail.com**
 
 - ⚡ Fun fact **I love trying out new programming languages.**
 
