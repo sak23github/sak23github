@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Taywade</h1>
-<h3 align="center">A proficient Azure Data Engineer with 2 years of experience in developing cloud-based ETL pipelines using Azure Data Factory and handling large-scale data processing with PySpark and Azure Synapse. 
+<h3 align="center">A proficient Azure Data Engineer with 2 years of experience in developing cloud-based ETL pipelines using Azure Data Factory and handling large-scale data processing with PySpark and Azure Synapse. </h3>
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"</img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sak23github&label=Profile%20views&color=0e75b6&style=flat" alt="sak23github" /> </p>
 
