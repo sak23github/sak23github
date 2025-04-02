@@ -5,11 +5,12 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sakshi-taywade/](https://www.linkedin.com/in/sakshi-taywade/)
 
-- 💬 Ask me about **pyhton,django,sql,mongodb**
+- 💬 Ask me about **Azure (Azure Data Factory, Azure Data Lake, Azure Databricks,Azure
+ Synapse,Microsoft Fabric),PySpark,Git, GitHub, CI/CD pipelines**
 
-- 📫 How to reach me **sakshikk04@gmail.com**
+- 📫 How to reach me **sakshiofficial0107@gmail.com**
 
-- ⚡ Fun fact **I love trying out new programming languages.**
+- ⚡ Fun fact **I have a passion for exploring new programming languages, especially those that enhance data engineering capabilities and optimize data processing workflows
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
